@@ -1,3 +1,4 @@
+https://pluralsight.com
 https://httpstat.us/260?sleep=1000
 https://httpstat.us/261?sleep=1000
 https://httpstat.us/262?sleep=1000
